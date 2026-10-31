@@ -1,0 +1,5 @@
+# Grabaciones, logs y accesos directos locales
+ClipRecorder/Recordings/
+*.log
+*.lnk
+Thumbs.db

@@ -1,0 +1,15 @@
+{
+  "DurationSeconds": 5,
+  "Fps": 30,
+  "Quality": "Alta",
+  "OutputWidth": 0,
+  "OutputHeight": 0,
+  "RecordSystemAudio": true,
+  "RecordMicrophone": false,
+  "Tracking": "Ninguno",
+  "Hotkey": "Ctrl+Alt+Shift+R",
+  "OutputFolder": "Recordings",
+  "HardwareEncoder": false,
+  "AutoStart": true,
+  "FirstRunDone": true
+}
